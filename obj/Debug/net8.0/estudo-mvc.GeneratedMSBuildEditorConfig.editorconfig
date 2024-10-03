@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = estudo_mvc
 build_property.RootNamespace = estudo_mvc
-build_property.ProjectDir = c:\Users\mkt\OneDrive\Área de Trabalho\estudo-mvc\
+build_property.ProjectDir = c:\Users\Rafael Thomaz\Desktop\mvc-sqlite\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\mkt\OneDrive\Área de Trabalho\estudo-mvc
+build_property.MSBuildProjectDirectory = c:\Users\Rafael Thomaz\Desktop\mvc-sqlite
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Cliente/Create.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Cliente/Delete.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Cliente/Details.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Cliente/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Cliente/Edit.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Cliente/Index.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Funcionario/Create.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Funcionario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Funcionario/Delete.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Funcionario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Funcionario/Details.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Funcionario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Funcionario/Edit.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Funcionario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Funcionario/Index.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Funcionario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Home/Index.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Home/Privacy.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Shared/Error.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/_ViewImports.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/_ViewStart.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/mkt/OneDrive/Área de Trabalho/estudo-mvc/Views/Shared/_Layout.cshtml]
+[c:/Users/Rafael Thomaz/Desktop/mvc-sqlite/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dkerijbibe

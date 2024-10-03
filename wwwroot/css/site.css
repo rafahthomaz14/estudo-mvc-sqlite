@@ -17,6 +17,25 @@ html {
   min-height: 100%;
 }
 
+
 body {
-  margin-bottom: 60px;
+  background-image: url('../img/bg-icons-2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.table-container {
+  height: 280px!important; 
+  overflow-y: scroll;
+  margin-bottom: 20px; 
+}
+td,
+th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+table tbody tr:last-child {
+  border-bottom: none;
 }
